@@ -3,11 +3,15 @@ Taking a look at Atlanta vs New York City Crime rates.
 ***
 
 # About
-The projects objective is to
+The projects objective is to analyze and comapare the crime rates between two cities
 
 # Reasourses Used
-*
+* Pandas
+* Hvplot
+* Seaborn
+
+* Dataset from data.world
 
 # Questions?
 
-![fbi-crime](https://user-images.githubusercontent.com/97075894/157721681-0e9d1366-3a6f-4d09-80c2-96587e783232.gif)
+
