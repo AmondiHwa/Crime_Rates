@@ -3,7 +3,7 @@ Taking a look at Atlanta vs New York City Crime rates.
 ***
 
 # Story
-Carrie is torn between moving to Atlanta and New York City. As a new adult and looking forward to branching out on her own.
+Carrie is having a hard time choosing between the two cities of her dream, Atlanta and New York City. As a new college graduate, she is looking forward to branching out and moving into a home located in either one of her favorite cities. However, after watching the news and discovering a massive crime case in Tennessee. She decided to each out us, CR. Corp, for research and gain consoltaion about the crime rates in both cities. 
 
 # About / Task
 The projects objective is to analyze and comapare the crime rates between two cities
