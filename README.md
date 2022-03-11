@@ -14,4 +14,4 @@ The projects objective is to analyze and comapare the crime rates between two ci
 
 # Questions?
 
-
+![180212_r31476](https://user-images.githubusercontent.com/97075894/157775960-05aab79b-cc05-4556-80ba-d671e2236e5f.gif)
